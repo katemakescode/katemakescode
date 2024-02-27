@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @katemakescode a self taught aspiring Software dev
-- 👀 I’m interested in growing my network 
+- 👀 I’m interested in growing my network and working with others
 - 🌱 I’m currently learning Python and AWS Cloud Engineering
 - 💞️ I’m looking to collaborate on awesome projects
-- 📫 fee free to reach out! would be great to work on somthing together
+- 📫 Feel free to reach out! would be great to work on something together
 - 😄 Pronouns: sher/her
 - ⚡ Fun fact: pizza is the best
 
